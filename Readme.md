@@ -1,4 +1,4 @@
-#Mitsubishi Heavy Industries Superlink to MQTT Project for Cloudless home automation
+# Mitsubishi Heavy Industries Superlink to MQTT Project for Cloudless home automation
 
 For the use with units supporting the use of the Rc-Ex Controllers
 MQTT as an open source option that will easily integrate with HomeAssistant (Hassio)
