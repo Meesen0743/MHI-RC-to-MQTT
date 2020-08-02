@@ -1,0 +1,10 @@
+The RC-EX3 Controller has a MM1192 HBS-compatible Driver And Receiver IC it is widely used in Air-conditioning equipment 
+It supports transmitting data and power on a single pair of wires for HomeBus System (HBS) applications.
+
+This points to the Superlink System being based on the Home Bus System
+
+HMS INDUSTRIAL NETWORKS (Parent company of Intesis) has a EC Declaration of Conformity for a Communication Gateway for the integration of Ethernet and "HBS" installation.
+
+* https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7226.html
+* https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7224.html
+* https://cdn.hms-networks.com/docs/librariesprovider11/other-documentation/ec-declaration-of-conformity/ce-declaration-of-conformity-is-ibv6-eth-hbs-hbs.pdf?sfvrsn=f15420d7_4

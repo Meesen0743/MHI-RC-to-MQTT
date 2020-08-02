@@ -10,9 +10,9 @@ Key notes / Findings :
 
 
 Resources:
-https://www.mhi.co.jp/technology/review/pdf/e452/e452006.pdf
-https://www.intesishome.com/docs/IntesisHome_MH-RC-WIFI-1_Compatibility_List.pdf  
-https://www.home-assistant.io/integrations/climate.mqtt/
+* https://www.mhi.co.jp/technology/review/pdf/e452/e452006.pdf
+* https://www.intesishome.com/docs/IntesisHome_MH-RC-WIFI-1_Compatibility_List.pdf  
+* https://www.home-assistant.io/integrations/climate.mqtt/
 
 
 
