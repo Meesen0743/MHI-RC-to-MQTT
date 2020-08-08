@@ -12,7 +12,11 @@ P1P2Serial:
 The following repository is hopefully the path forward for this project, I will likely need to reverse engineer the raw bytes but it is a step forward.
 https://github.com/Arnold-n/P1P2Serial
 
+The MAX22088 transceiver from "maximintegrated" is an newer alternative to the MM1192 with more features. Likely going forward to use this IC for some initial tests.
 
+Resources:
+---------
+* https://www.maximintegrated.com/en/products/interface/transceivers/MAX22088.html
 * https://www.digchip.com/datasheets/parts/datasheet/304/MM1192-pdf.php
 * https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7226.html
 * https://www.maximintegrated.com/en/design/technical-documents/app-notes/7/7224.html
